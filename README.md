@@ -1,2 +1,2 @@
 # CODSOFT
-This repo contains all the tasks performed during coDSOFT C++ internship.
+This repo contains all the tasks performed during CODSOFT C++ internship.
